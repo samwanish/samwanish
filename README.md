@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @samwanish
 - 👀 I’m interested in how to use Git  ...
-- 🌱 I do have SQL, HTML5 and Python
+- 🌱 I do have skill in SQL, HTML5 and Python
 - 💞️ I’m looking to collaborate on in projects ...
 - 📫 How to reach me  
 <a href = "https://www.linkedin.com/in/samuelkaranja1200/"> Linkedin </a>
